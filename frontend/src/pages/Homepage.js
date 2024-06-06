@@ -15,16 +15,16 @@ const Homepage = () => {
                 <Grid item xs={12} md={6}>
                     <StyledPaper elevation={3}>
                         <StyledTitle>
-                            Welcome to
+                            Welcome to the 
                             <br />
-                            School Management
+                            International Student Assistance
                             <br />
                             System
                         </StyledTitle>
                         <StyledText>
                             Streamline school management, class organization, and add students and faculty.
-                            Seamlessly track attendance, assess performance, and provide feedback.
-                            Access records, view marks, and communicate effortlessly.
+                            Seamlessly communication with International students.
+                            Access record and applications, and communicate effortlessly.
                         </StyledText>
                         <StyledBox>
                             <StyledLink to="/choose">
